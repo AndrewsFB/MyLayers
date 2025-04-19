@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "page_up",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 19,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<meta>",
+            "<super>"
+        ],
+        "hotKey": "i"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
