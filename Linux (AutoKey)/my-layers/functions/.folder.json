@@ -1,13 +1,8 @@
 {
-    "type": "phrase",
-    "description": "%",
-    "modes": [
-        3
-    ],
+    "type": "folder",
+    "title": "functions",
+    "modes": [],
     "usageCount": 0,
-    "prompt": false,
-    "omitTrigger": false,
-    "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -18,15 +13,11 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt>",
-            "<meta>"
-        ],
-        "hotKey": "k"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,
         "isRecursive": false
-    },
-    "sendMode": "kb"
+    }
 }

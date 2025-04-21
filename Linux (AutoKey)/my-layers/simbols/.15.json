@@ -1,6 +1,6 @@
 {
     "type": "phrase",
-    "description": "@",
+    "description": "&",
     "modes": [
         3
     ],
@@ -20,9 +20,9 @@
     "hotkey": {
         "modifiers": [
             "<alt>",
-            "<meta>"
+            "<shift>"
         ],
-        "hotKey": "m"
+        "hotKey": "u"
     },
     "filter": {
         "regex": null,
