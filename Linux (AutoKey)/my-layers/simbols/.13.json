@@ -20,7 +20,7 @@
     "hotkey": {
         "modifiers": [
             "<alt>",
-            "<shift>"
+            "<meta>"
         ],
         "hotKey": "n"
     },

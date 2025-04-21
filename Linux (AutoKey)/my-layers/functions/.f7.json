@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>",
-            "<meta>"
+            "<hyper>"
         ],
-        "hotKey": "u"
+        "hotKey": "d"
     },
     "filter": {
         "regex": null,

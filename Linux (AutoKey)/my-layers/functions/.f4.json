@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>",
-            "<meta>"
+            "<hyper>"
         ],
-        "hotKey": "j"
+        "hotKey": "r"
     },
     "filter": {
         "regex": null,
