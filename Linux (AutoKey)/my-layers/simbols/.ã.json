@@ -2,26 +2,26 @@
     "type": "phrase",
     "description": "\u00e3",
     "modes": [
-        3
+        1
     ],
-    "usageCount": 0,
+    "usageCount": 17,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
-        "abbreviations": [],
+        "abbreviations": [
+            "a/t"
+        ],
         "backspace": true,
         "ignoreCase": false,
-        "immediate": false,
-        "triggerInside": false,
+        "immediate": true,
+        "triggerInside": true,
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<meta>"
-        ],
-        "hotKey": "a"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,

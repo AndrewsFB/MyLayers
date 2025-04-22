@@ -1,8 +1,8 @@
 {
     "type": "phrase",
-    "description": "~",
+    "description": "\u00ee",
     "modes": [
-        3
+        1
     ],
     "usageCount": 1,
     "prompt": false,
@@ -10,18 +10,18 @@
     "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
-        "abbreviations": [],
+        "abbreviations": [
+            "i/c"
+        ],
         "backspace": true,
         "ignoreCase": false,
-        "immediate": false,
-        "triggerInside": false,
+        "immediate": true,
+        "triggerInside": true,
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<meta>"
-        ],
-        "hotKey": "y"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,

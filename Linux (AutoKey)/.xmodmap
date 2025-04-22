@@ -1,3 +1,7 @@
 remove Lock = Caps_Lock
 keysym Caps_Lock = Meta_L
 add Mod1 = Meta_L
+
+clear Mod5
+keycode 108 = Hyper_L
+add Mod5 = Hyper_L

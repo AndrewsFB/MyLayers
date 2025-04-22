@@ -1,27 +1,27 @@
 {
     "type": "phrase",
-    "description": "~",
+    "description": "\u00d4",
     "modes": [
-        3
+        1
     ],
-    "usageCount": 1,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
-    "matchCase": false,
+    "matchCase": true,
     "showInTrayMenu": false,
     "abbreviation": {
-        "abbreviations": [],
+        "abbreviations": [
+            "O/c"
+        ],
         "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
-        "triggerInside": false,
+        "ignoreCase": true,
+        "immediate": true,
+        "triggerInside": true,
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<meta>"
-        ],
-        "hotKey": "y"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,
