@@ -21,7 +21,7 @@
         "modifiers": [
             "<meta>"
         ],
-        "hotKey": "y"
+        "hotKey": "["
     },
     "filter": {
         "regex": null,

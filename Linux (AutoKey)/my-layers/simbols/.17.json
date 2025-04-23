@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>",
             "<meta>"
         ],
-        "hotKey": "j"
+        "hotKey": ","
     },
     "filter": {
         "regex": null,
